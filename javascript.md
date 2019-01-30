@@ -30,3 +30,10 @@ In JavaScript we use the `lower camel case` convention to name our variables. So
 * `*` : multiplication
 * `/` : division
 * `%` : modulo
+
+## Escape a character
+If you want escape a character, put a `\` before it.
+Example:
+```bash
+var text = 'Je m\'appelle Marine';
+```
