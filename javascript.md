@@ -85,3 +85,5 @@ console.log(array[2][1]);
 
 Add a value in an array: `array.push(value);`
 
+Delete the last value from an array: `array.pop();`
+
