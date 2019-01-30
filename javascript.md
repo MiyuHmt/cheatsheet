@@ -61,4 +61,8 @@ var toto = "Hello \tWorld!";
 
 ### Size of a string
 To have the size of a string, use `string.length`.
-
+To have the last character of a string, you can do:
+```bash
+var name = 'Marine';
+console.log(name[name.length -1])
+```
