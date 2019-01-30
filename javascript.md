@@ -20,3 +20,6 @@ var num = 3;
 You can create a variable with no assignment. In this case the value of the variable is `undefined`.
 
 If you increment a `undefined` variable, you will receive the `NaN` error, `Not A Number`. Because you can't make an addition with an `undefined` variable. You must first initialize the variable.
+
+## Camel Case
+In JavaScript we use the `lower camel case` convention to name our variables. So the first word start with a lower case, the other ones with an upper case, like: `var greatPassword;`
