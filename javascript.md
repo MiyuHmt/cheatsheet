@@ -83,3 +83,5 @@ var array = [name, age, address];
 console.log(array[2][1]);
 ```
 
+Add a value in an array: `array.push(value);`
+
