@@ -58,3 +58,7 @@ Example:
 ```bash
 var toto = "Hello \tWorld!";
 ```
+
+### Size of a string
+To have the size of a string, use `string.length`.
+
