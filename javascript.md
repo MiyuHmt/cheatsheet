@@ -37,3 +37,8 @@ Example:
 ```bash
 var text = 'Je m\'appelle Marine';
 ```
+### Go on a new line
+To go on a new line: `\n`
+
+### Add a tabulation 
+To add a tabulation: `\t`
