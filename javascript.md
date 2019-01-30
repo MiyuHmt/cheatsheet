@@ -37,8 +37,24 @@ Example:
 ```bash
 var text = 'Je m\'appelle Marine';
 ```
+
+### Escape a backslash
+If you want write a backslach, you must escape it with a second one: `\\`.
+Example:
+```bash
+var text = 'I am a backslash: \\';
+```
+
 ### Go on a new line
 To go on a new line: `\n`
+Example:
+```bash
+var toto = "Hello \nWorld!";
+```
 
 ### Add a tabulation 
 To add a tabulation: `\t`
+Example:
+```bash
+var toto = "Hello \tWorld!";
+```
