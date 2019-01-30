@@ -10,3 +10,12 @@
 * `undefined` : variable with no affected value
 * `null` : only one value: `null`
 * `symbol` : for unique identifiers. New type from ECMAScript 6.
+
+## Assign a value
+Use the `=` symbol to assign a value. Example:
+```bash
+var num = 3;
+```
+
+You can create a variable with no assignment. In this case the value of the variable is `undefined`.
+
