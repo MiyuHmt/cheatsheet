@@ -23,3 +23,10 @@ If you increment a `undefined` variable, you will receive the `NaN` error, `Not 
 
 ## Camel Case
 In JavaScript we use the `lower camel case` convention to name our variables. So the first word start with a lower case, the other ones with an upper case, like: `var greatPassword;`
+
+## Operations
+* `+` : addition
+* `-` : substration
+* `*` : multiplication
+* `/` : division
+* `%` : modulo
