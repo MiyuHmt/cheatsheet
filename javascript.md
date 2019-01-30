@@ -64,5 +64,5 @@ To have the size of a string, use `string.length`.
 To have the last character of a string, you can do:
 ```bash
 var name = 'Marine';
-console.log(name[name.length -1])
+console.log(name[name.length -1]);
 ```
