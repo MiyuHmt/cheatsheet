@@ -46,14 +46,14 @@ var text = 'I am a backslash: \\';
 ```
 
 ### Go on a new line
-To go on a new line: `\n`
+To go on a new line: `\n`.
 Example:
 ```bash
 var toto = "Hello \nWorld!";
 ```
 
 ### Add a tabulation 
-To add a tabulation: `\t`
+To add a tabulation: `\t`.
 Example:
 ```bash
 var toto = "Hello \tWorld!";
