@@ -69,3 +69,17 @@ console.log(name[name.length -1]);
 
 ### Immutability
 Strings are immutable ; so we can't change only a part of it.
+
+### Arrays
+Access to a value from an array in an array:
+
+```javascript
+var name = 'Marine';
+var age = 23;
+var address = ['street', 'city'];
+var array = [name, age, address];
+
+// access to 'city'
+console.log(array[2][1]);
+```
+
