@@ -66,3 +66,6 @@ To have the last character of a string, you can do:
 var name = 'Marine';
 console.log(name[name.length -1]);
 ```
+
+### Immutability
+Strings are immutable ; so we can't change only a part of it.
