@@ -13,7 +13,7 @@
 
 ## Assign a value
 Use the `=` symbol to assign a value. Example:
-```bash
+```javascript
 var num = 3;
 ```
 
@@ -34,35 +34,35 @@ In JavaScript we use the `lower camel case` convention to name our variables. So
 ## Escape a character
 If you want escape a character, put a `\` before it.
 Example:
-```bash
+```javascript
 var text = 'Je m\'appelle Marine';
 ```
 
 ### Escape a backslash
 If you want write a backslach, you must escape it with a second one: `\\`.
 Example:
-```bash
+```javascript
 var text = 'I am a backslash: \\';
 ```
 
 ### Go on a new line
 To go on a new line: `\n`.
 Example:
-```bash
+```javascript
 var toto = "Hello \nWorld!";
 ```
 
 ### Add a tabulation 
 To add a tabulation: `\t`.
 Example:
-```bash
+```javascript
 var toto = "Hello \tWorld!";
 ```
 
 ### Size of a string
 To have the size of a string, use `string.length`.
 To have the last character of a string, you can do:
-```bash
+```javascript
 var name = 'Marine';
 console.log(name[name.length -1]);
 ```
