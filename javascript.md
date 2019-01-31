@@ -236,3 +236,7 @@ Why?
 * With `var` you have a `function scope`, not a `block scope`.
 * Your values go back to the beginning of the document.
 
+### Let and Const
+With `let` you can declare a variable and change it's value after the declaration. A `let` variable has a `block scope`.
+
+`const` is for constant variable. A `const` variable has a `block scope` too.
