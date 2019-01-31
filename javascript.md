@@ -313,3 +313,5 @@ Table destructuring:
 ```javascript
 const weather = ["cloudly", "sunny", "rainy", "windy", "foggy", "snowy", "icy"];
 const [a, b, c, d, e, f, g] = weather;
+```
+
