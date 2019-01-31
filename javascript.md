@@ -261,6 +261,11 @@ If you have only one parameter, parenthesis are not mandatory:
 ```javascript
 param => {}
 ```
+Example:
+
+```javascript
+number => `I have ${number} eggs.`;
+```
 
 Without params: 
 ```javascript
