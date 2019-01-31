@@ -67,10 +67,10 @@ var name = 'Marine';
 console.log(name[name.length -1]);
 ```
 
-### Immutability
+## Immutability
 Strings are immutable ; so we can't change only a part of it.
 
-### Arrays
+## Arrays
 Access to a value from an array in an array:
 
 ```javascript
@@ -91,3 +91,10 @@ Delete the first value from an array: `array.shift();`
 
 Delete the last value from an array: `array.pop();`
 
+## Conditional (ternary) operator
+
+```javascript
+condition ? exprTrue : exprFalse
+```
+
+If `condition` is truthy, the opeator returns value of `exprTrue` ; otherwise, it returns tue value of `exprFalse`.
