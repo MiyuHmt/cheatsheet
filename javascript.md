@@ -91,6 +91,15 @@ Delete the first value from an array: `array.shift();`
 
 Delete the last value from an array: `array.pop();`
 
+### Map method
+The `map()` method can be called on an array: `array.map()` and into it you can add a function that is called on all array element. It's like a `for` loop but directly on an array.
+
+```javascript
+var arr = [1,2,3,4];
+
+var arr2 = arr.map(function(nb) { return nb+2; });
+```
+
 ## Conditional (ternary) operator
 
 ```javascript
@@ -193,6 +202,7 @@ for(var i = 0; i <= 10; i++) {
 }
 ```
 
+
 ## Generate a random number
 Generate a random float number between 0 and 1:
 ```javascript
@@ -214,3 +224,4 @@ Generate a random number into a rank:
 ```javascript
 Math.floor(Math.random() * (max - min + 1) + min); // + 1 is to include the min
 ```
+
