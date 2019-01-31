@@ -301,3 +301,11 @@ user = {
 };
 const {name: firstname, age, city: town} = user;
 ```
+Put a default value: 
+```javascript
+user = {
+  name: "Marine",
+  age: 23
+};
+const {name, age, city="Lille"} = user;
+```
