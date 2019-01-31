@@ -240,3 +240,11 @@ Why?
 With `let` you can declare a variable and change it's value after the declaration. A `let` variable has a `block scope`.
 
 `const` is for constant variable so you can't change the value. A `const` variable has a `block scope` too.
+
+### Templates Strings
+Templates Strings are great if you want display some variables into a String. 
+You must use backquotes and to display a variable use: `${}`.
+```javascript
+const fruit = "banana";
+const a = `I eat a ${fruit} !`;
+```
