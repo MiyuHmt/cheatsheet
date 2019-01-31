@@ -210,4 +210,7 @@ Generate a random number between 0 and 6:
 var random = Math.floor(random() * 6);
 console.log(random);
 ```
-
+Generate a random number into a rank:
+```javascript
+Math.floor(Math.random() * (max - min + 1) + min); // + 1 is to include the min
+```
