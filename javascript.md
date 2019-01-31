@@ -192,3 +192,22 @@ for(var i = 0; i <= 10; i++) {
   console.log(i);
 }
 ```
+
+## Generate a random number
+Generate a random float number between 0 and 1:
+```javascript
+var random = Math.random();
+console.log(random);
+```
+Generate a random float number between 0 and 6:
+```javascript
+var random = Math.random() * 6;
+console.log(random);
+```
+
+Generate a random number between 0 and 6:
+```javascript
+var random = Math.floor(random() * 6);
+console.log(random);
+```
+
