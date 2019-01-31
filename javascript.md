@@ -280,3 +280,14 @@ To have a default value if user put nothing in parameter:
 ```javascript
 function myFruit(fruit = "apple") {}
 ```
+
+### Destructuring
+
+```javascript
+user = {
+  name: "Marine",
+  age: 23,
+  city: "Paris"
+};
+const {name, age, city} = user;
+```
