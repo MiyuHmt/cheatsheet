@@ -248,3 +248,4 @@ You must use backquotes and to display a variable use: `${}`.
 const fruit = "banana";
 const a = `I eat a ${fruit} !`;
 ```
+You can put all JavaScript code that you want into the brackets (ternary...).
