@@ -136,3 +136,18 @@ var ask = "speed";
 
 ninja[ask];
 ```
+### Manipulate objects
+
+To update a property: 
+```javascript
+ninja.speed = 100;
+```
+To add a new property:
+```javascript
+ninja.weapon = "shuriken";
+```
+
+To remove a property:
+```javascript
+delete ninja.weapon;
+```
