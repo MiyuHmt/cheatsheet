@@ -314,4 +314,10 @@ Table destructuring:
 const weather = ["cloudly", "sunny", "rainy", "windy", "foggy", "snowy", "icy"];
 const [a, b, c, d, e, f, g] = weather;
 ```
+Exchange values: 
+```javascript
+let mine = "Pizza";
+let yours = "Pasta";
 
+[mine, yours] = [yours, mine];
+```
