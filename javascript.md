@@ -168,3 +168,13 @@ Check if object has a property:
 ninja.hasOwnProperty('speed');
 ```
 Send a `boolean`.
+
+## While loop
+Execute a block of code as long as the `condition` is `true`.
+```javascript
+var i = 0;
+while (i <= 10) {
+  console.log(i);
+  i++;
+}
+```
