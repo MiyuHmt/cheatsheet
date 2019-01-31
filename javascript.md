@@ -121,7 +121,18 @@ var ninja = {
 };
 ```
 
-To access to an oject parameter, use the `.` : 
+To access to an oject property, use the `.` : 
 ```javascript
 ninja.speed
+```
+An other way to access to a property:
+```javascript
+ninja["speed"]
+```
+When you want to access to a property but you don't know now which one:
+
+```javacript
+var ask = "speed";
+
+ninja[ask];
 ```
