@@ -225,3 +225,13 @@ Generate a random number into a rank:
 Math.floor(Math.random() * (max - min + 1) + min); // + 1 is to include the min
 ```
 
+## ES6 + ES7
+
+JavaScript is based on the ECMAScript standard. The ES6 version bring a lot of new stuffs to JavaScript.
+
+### Var
+`var` should not be ever used in ES6.
+Why?
+* Too permissive: you can declare multiple variables with the same name in the same scope with `var`.
+* With `var` you have a `function scope`, not a `block scope`.
+
