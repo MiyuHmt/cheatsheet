@@ -189,6 +189,6 @@ for(part1; part2; part3) {}
 
 ```javascript
 for(var i = 0; i <= 10; i++) {
-console.log(i);
+  console.log(i);
 }
 ```
