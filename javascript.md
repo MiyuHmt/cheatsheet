@@ -178,3 +178,17 @@ while (i <= 10) {
   i++;
 }
 ```
+## For loop
+```javascript
+for(part1; part2; part3) {}
+```
+
+`part1`: is executed before the execution of the code block.
+`part2`: defines the condition for executing the code block.
+`part3`: is executed after the code block has been executed, until the condition becomes false.
+
+```javascript
+for(var i = 0; i <= 10; i++) {
+
+}
+```
