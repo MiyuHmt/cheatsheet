@@ -120,3 +120,8 @@ var ninja = {
   "weaknesses": ["alien", "magus"]
 };
 ```
+
+To access to an oject parameter, use the `.` : 
+```javascript
+ninja.speed
+```
