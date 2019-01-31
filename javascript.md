@@ -151,3 +151,9 @@ To remove a property:
 ```javascript
 delete ninja.weapon;
 ```
+
+Check if object has a property:
+```javascript
+ninja.hasOwnProperty('speed');
+```
+Send a `boolean`
