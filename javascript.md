@@ -111,3 +111,12 @@ if (cond) {
 }
 ```
 
+## Objects
+
+```javascript
+var ninja = {
+  "strength": 80,
+  "speed": 50,
+  "weaknesses": ["alien", "magus"]
+};
+```
