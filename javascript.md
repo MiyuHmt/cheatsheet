@@ -120,6 +120,17 @@ var ninja = {
   "weaknesses": ["alien", "magus"]
 };
 ```
+You can have an object into an object:
+```javascript
+var ninja = {
+  "strength": 80,
+  "speed": 50,
+  "weaknesses": ["alien", "magus"],
+  "buddy": {
+    "animal": "rabbit"
+  }
+};
+```
 
 To access to an oject property, use the `.` : 
 ```javascript
