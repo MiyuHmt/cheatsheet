@@ -249,3 +249,20 @@ const fruit = "banana";
 const a = `I eat a ${fruit} !`;
 ```
 You can put all JavaScript code that you want into the brackets (ternary...).
+
+### Arrow functions
+An other syntax to write functions
+```javascript
+(param1, param2) => {}
+```
+
+If you have only one parameter, parenthesis are not mandatory:
+
+```javascript
+param => {}
+```
+
+Without params: 
+```javascript
+() => {}
+```
