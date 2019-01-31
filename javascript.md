@@ -291,3 +291,13 @@ user = {
 };
 const {name, age, city} = user;
 ```
+
+To give an different name to the variable and the parameter: 
+```javascript
+user = {
+  name: "Marine",
+  age: 23,
+  city: "Paris"
+};
+const {name: firstname, age, city: town} = user;
+```
