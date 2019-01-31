@@ -59,7 +59,7 @@ Example:
 var toto = "Hello \tWorld!";
 ```
 
-### Size of a string
+## Size of a string
 To have the size of a string, use `string.length`.
 To have the last character of a string, you can do:
 ```javascript
