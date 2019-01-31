@@ -98,3 +98,16 @@ condition ? exprTrue : exprFalse
 ```
 
 If `condition` is truthy, the opeator returns value of `exprTrue` ; otherwise, it returns tue value of `exprFalse`.
+
+## If / Else condition
+
+```javascript
+if (cond) {
+  // do something
+} else if (cond) {
+  // do something
+} else {
+  // do something else
+}
+```
+
