@@ -239,4 +239,4 @@ Why?
 ### Let and Const
 With `let` you can declare a variable and change it's value after the declaration. A `let` variable has a `block scope`.
 
-`const` is for constant variable. A `const` variable has a `block scope` too.
+`const` is for constant variable so you can't change the value. A `const` variable has a `block scope` too.
