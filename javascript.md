@@ -156,4 +156,4 @@ Check if object has a property:
 ```javascript
 ninja.hasOwnProperty('speed');
 ```
-Send a `boolean`
+Send a `boolean`.
