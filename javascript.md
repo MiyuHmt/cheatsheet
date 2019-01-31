@@ -275,3 +275,8 @@ Arrows functions are always anonymous. To resolve this "problem" you can put the
 ```javascript
 const maFunc = number => console.log(`I have ${number} eggs.`)
 ```
+### Default parameter in a function
+To have a default value if user put nothing in parameter:
+```javascript
+function myFruit(fruit = "apple") {}
+```
