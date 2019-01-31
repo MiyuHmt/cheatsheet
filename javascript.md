@@ -271,3 +271,7 @@ Without params:
 ```javascript
 () => {}
 ```
+Arrows functions are always anonymous. To resolve this "problem" you can put the arrow function in a variable:
+```javascript
+const maFunc = number => console.log(`I have ${number} eggs.`)
+```
