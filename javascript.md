@@ -321,3 +321,10 @@ let yours = "Pasta";
 
 [mine, yours] = [yours, mine];
 ```
+
+### Spread operator
+The Spread operator: `...`. It's to say that you will all the elements in an element:
+```javascript
+const ingredients = ["carrot", "egg", "ham"];
+console.log([...ingredients]);
+```
