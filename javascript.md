@@ -323,8 +323,9 @@ let yours = "Pasta";
 ```
 
 ### Spread operator
-The Spread operator: `...`. It's to say that you will all the elements in an element:
+The Spread operator: `...`. It's to say that you will all the elements from an element:
 ```javascript
-const ingredients = ["carrot", "egg", "ham"];
-console.log([...ingredients]);
+const ingredientsA = ["carrot", "egg", "ham"];
+const ingredientsB = ["tomato", "chicken", "bread"];
+const list = [...ingredientsA, ...ingredientsB];
 ```
