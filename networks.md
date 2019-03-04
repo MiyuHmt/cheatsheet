@@ -61,3 +61,35 @@ Unlike other networks, fault detection and troubleshooting is easy in this type 
 Its easy to increase the size of network by adding new components, without disturbing existing architecture.
 
 
+## LAN Protocols
+
+A network protocol defines rules and conventions for communication between network devices.
+
+Protocols for computer networking all generally use packet switching techniques to send and receive messages in the form of packets.
+
+### Types of LAN Protocols
+
+* Ethernet
+* Fast Ethernet
+* Gig Ethernet
+* WiFi
+* FDDI
+* ATM LANE
+
+### Ethernet
+The Ethernet protocol is by far the most widely used one. Ethernet uses an access method called CSMA/CD (Carrier Sense Multiple Access/Collision Detection).
+
+This is a system where each computer listens to the cable before sending anything through the network.
+
+Sometimes, two computers attempt to transmit at the same instant.
+
+The Ethernet protocol allows for linear bus, star, or tree topologies.
+
+### Fast Ethernet
+
+Ethernet is the most ubiquitous local area networking protocol and utilizes copper ethernet cables (Cat3, Cat5, 
+Cat5e and Cat6), fiber optics, or wireless (WiFi) connections to an ethernet switch or wifi router.
+
+Fast Ethernet is a local area network (LAN) transmission standard that provides a data rate of 100 megabits per second (referred to as "100BASE-T").
+
+Workstations with existing 10 megabits per second (10BASE-T) Ethernet card can be connected to a Fast Ethernet network.
