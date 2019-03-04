@@ -38,6 +38,10 @@ Other pairs of workstations are indirectly connected, the data passing through o
 
 ### Mesh topology
 
+It is a point-to-point connection to other nodes or devices. All the network nodes are connected to each other. Mesh has n(n-2)/2 physical channels to link n devices.
+
+The mesh network topology employs either of two schemes, called full mesh and partial mesh. In the full mesh topology, each workstations is connected directly to each of the others.
+
 ### Tree topology
 
 ### Hybrid topology
