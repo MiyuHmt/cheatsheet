@@ -21,7 +21,20 @@ In the Cable required is least compared to other network topology.
 
 ### Star topology
 
+In the star network topology, thiere is a central computer or server to which all the workstations are directly connected.
+Every workstation is indirectly connected to every other through the central computer.
+
+In this type of topology all the computers are connected to a single hub through a cable.
+
+This hub is the central node and all others nodes are connected to the central node.
+
 ### Ring topology
+
+It is called ring topology because it forms a ring as each computer is connected to another computer, with the last one connected to the first. Exactly two neighbours for each device.
+
+In the ring network topology, the workstations are connected in a closed loop configuration. Adjacent pairs of workstations are directly connected.
+
+Other pairs of workstations are indirectly connected, the data passing through one or more intermediate nodes.
 
 ### Mesh topology
 
