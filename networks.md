@@ -2,7 +2,7 @@
 
 ## Networking topologies
 
-Types of physical network topologies
+Types of physical network topologies:
 
 * Bus topology
 * Star topology
