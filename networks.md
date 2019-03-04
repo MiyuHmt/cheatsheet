@@ -44,4 +44,12 @@ The mesh network topology employs either of two schemes, called full mesh and pa
 
 ### Tree topology
 
+It has a root node and all other nodes are connected to it forming a hierarchy. It is also called hierarchical topology. It should at least have three levels to the hierarchy.
+
+The tree network topology uses two or more star networks connected together.
+
+The central computers of the star networks are connected to a main bus.
+
+Thus, a tree network is a bus network of star networks.
+
 ### Hybrid topology
