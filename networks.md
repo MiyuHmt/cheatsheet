@@ -53,3 +53,11 @@ The central computers of the star networks are connected to a main bus.
 Thus, a tree network is a bus network of star networks.
 
 ### Hybrid topology
+
+It is two different types of topologies which is a miniature of two or more topologies.
+
+Unlike other networks, fault detection and troubleshooting is easy in this type of topology.
+
+Its easy to increase the size of network by adding new components, without disturbing existing architecture.
+
+
