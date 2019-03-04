@@ -93,3 +93,40 @@ Cat5e and Cat6), fiber optics, or wireless (WiFi) connections to an ethernet swi
 Fast Ethernet is a local area network (LAN) transmission standard that provides a data rate of 100 megabits per second (referred to as "100BASE-T").
 
 Workstations with existing 10 megabits per second (10BASE-T) Ethernet card can be connected to a Fast Ethernet network.
+
+### Gig Ethernet
+
+Gigabit Ethernet, a transmission technology based on the Ethernet frame format and protocol used in local area 
+networks (LANs), provides a data rate of 1 billion bits per second (one gigabit).
+
+Gigabit Ethernet is defined in the IEEE 802.3 standard and is currently being used as the backbone in many enterprise networks.
+
+Gigabit Ethernet is carried primarily on optical fiber (with very short distances possible on copper media).
+
+### WiFi
+
+WiFi, or "Wireless Fidelity" is a descriptive acronym for describing the use and implementation of 802.11 wireless local area networking protocols (WLAN).
+
+If you connect to your internet at home using a wireless network, or connect to a WiFi network at say a coffee shop, a airport, you have undoubtedly used 802.11 technology.
+
+Wireless Local Area Networking devices use frequencies in the microwave range as a medium to encapsulate data onto.
+
+### FDDI
+
+FDDI utilizes fiber optic technology as the communications media.
+
+FDDI transmits light through glass or clear plastic strands that are thinner than a human hair.
+
+These strands carry signals from place to place and are connected to laser-light emitters.
+
+The strands are lit and unlit to provide data communication. This makes FDDI very expensive however, and so you rarely see it in a computer LAN.
+
+### ATM LANE
+
+Asynchronous Transfer Mode (ATM) is a network protocol that transmits data at a speed of 155 Mbps and higher.
+
+ATM works by transmitting all data in small packets of a fixed size; whereas, other protocols transfer variable length packets.
+
+ATM supports a variety of media such as video, CD-quality audio, and imaging. ATM employs a star topology, which can work with fiber optic as well as twisted pair cable.
+
+ATM is most often used to interconnect two or more local area networks.
