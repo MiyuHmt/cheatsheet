@@ -329,3 +329,44 @@ Class D has IP address range from 224.0.0.x to 239.255.255.255
 Class D is reserved for multicasting.
 
 Host address from the IP address, and class D does not have any subnet mask.
+
+## TCP (Transmission Control Protocol)
+
+TCP is a network communication protocol designed to send data packets over the internet.
+
+TCP/IP is a set of rules (protocols) governing communications among all computers on the Internet.
+
+TCP/IP is a combination of 2 separate protocols: TCP and IP.
+
+### Three most common TCP/IP protocols
+
+* HTTP
+* HTTPS
+* FTP
+
+### HTTP
+
+HTTP - used between a web client and a web server, for non-secure data transmissions.
+
+A web client (i.e. Internet browser on a computer) sends a request to a web server to view a web page.
+
+The web server receives that request and sends the web page information back to the web client.
+
+### HTTPS
+
+HTTPS - used between a web client and a web server, for secure data transmissions.
+
+Often used for sending credit card transaction data or other private data from a web client (i.e. Internet browser on a computer) to a web server.
+
+HTTPS provides authentication of the website and associated web server with which one is communicating.
+
+### FTP (File Transfer Protocol)
+
+FTP uses the Internet's TCP/IP protocols to enable data transfer.
+
+Used between two or more computers.
+
+One computer sends data to or receives data from another computer directly.
+
+FTP uses a client-server architecture, often secured with SSL/TLS.
+
