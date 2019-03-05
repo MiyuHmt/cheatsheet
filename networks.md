@@ -213,4 +213,10 @@ Switches operate at both the physical layer and the data link layer of the OSI M
 
 ### Routers
 
+Routers are networking devices used to extend or segment networks by forwarding packets from one logical network to another.
+
+Routers are most often used in large internetworks that use the TCP/IP protocol suite and for connecting TCP/IP hosts and local area networks (LANs) to the internet dedicated leased lines.
+
+Routers work at the network layer (layer 3) of the OSI reference model for networking to move packets between networks using logical addressses (wich, in the case of TCP/IP, are the IP addresses of destination hosts on the network).
+
 ### NICs
