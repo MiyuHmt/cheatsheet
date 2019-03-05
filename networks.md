@@ -155,6 +155,12 @@ X.25's protocols correspond closely to the data-link and physical-layer protocol
 
 ### Frame Relay
 
+Frame Relay is scalable WAN solution that is often used as an alternative to leased lines prove to be cost unaffordable.
+
+With Frame Relay, you can have a single serial interface on a router connecting into multiple remote sites through virtual circuits.
+
+AT&T stopped offering frame relay in 2012 but said it would support existing customers until 2016.
+
 ### ISDN
 
 ### DSL
