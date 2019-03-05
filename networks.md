@@ -276,6 +276,8 @@ The Internet Protocol is the method or protocol by which data is sent from one c
 
 Each computer (known as a host) on the internet has at least one IP address that uniquely identifies it from all other computers on the internet.
 
+Every location or device on a network must be addressable. Each IP address must be unique on its own network.
+
 IP by itself is something like the postal system.
 
 Most networks combine IP with a higher-level protocol called TCP
@@ -330,6 +332,32 @@ Class D is reserved for multicasting.
 
 Host address from the IP address, and class D does not have any subnet mask.
 
+## IPv4 vs IPv6
+
+There are two revisions of the IP protocol that are widely implemented on systems today.
+
+IPv4, which is the fourth version of the protocol, currently is what the majority of systems support.
+
+The world now has too many internet-connected devices for the amount of addresses available through IPv4.
+
+A typical IPv4 address looks something like: 192.168.0.7.
+
+IPv6, is the sixth version of the IP protocol.
+
+IPv6 address is: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
+IPv4 address as a 32-bit value, IPv6 addresses have a size of 128 bits.
+
+## IPv4 addresses classes and reserved changes
+
+IP addresses are typically made of two separate components.
+
+The first part of the address is used to identify the network that the address is part of.
+
+The part that comes afterwards is used to specify a specific host within that network.
+
+Where the network specification ends and the host specification begins depends on how the network is configured.
+
 ## TCP (Transmission Control Protocol)
 
 TCP is a network communication protocol designed to send data packets over the internet.
@@ -380,6 +408,20 @@ UDP provides a minimal, unreliable, best-effort, message-passing transport to ap
 
 UDP and its UDP-lite variant are unique in that they do not establish end-to-end connections between communicating end systems.
 
+### UDP and TCP
+
+#### UDP
+
+Connectionless service; no session is established between hosts.
+
+UDP does not guarantee or acknowledge delivery, or sequence data.
+
+#### TCP
+
+Connection-oriented service; a session is established between hosts.
+
+TCP guarantees delivery through the use of acknowledgements and sequenced delivery of data.
+
 ### ICMP (Internet Control Message Protocol)
 
 ICMP is an error-reporting protocol network devices like routers use to generate error messages to the source IP address when network problems prevent delivery of IP packets.
@@ -397,3 +439,4 @@ Because domain names are alphabetic, they're easier to remember.
 The DNS system is, in fact, its own network.
 
 If one DNS server doesn't know how to translate a particular domain name, it asks another one, and so on, until the correct IP address is returned.
+
