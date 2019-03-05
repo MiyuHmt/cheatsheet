@@ -269,3 +269,23 @@ The service port can obtain an IPv4 address using DHCP, or it can be assigned a 
 But a default gateway cannot be assigned to the service-port interface.
 
 The default gateway cannot be assigned to the service-port interface.
+
+## Internet Protocol (IP)
+
+The Internet Protocol is the method or protocol by which data is sent from one computer to another on the internet.
+
+Each computer (known as a host) on the internet has at least one IP address that uniquely identifies it from all other computers on the internet.
+
+IP by itself is something like the postal system.
+
+Most networks combine IP with a higher-level protocol called TCP
+
+## Address classes
+
+Internet Protocol hierarchy contains several classes of IP Addresses.
+
+To be used efficiently in various situations as per the requirement of hosts per networks.
+
+The IPv4 addressing system is divided into five classes of IP addresses.
+
+All the five classes are identified by the first octet of IP address
