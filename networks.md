@@ -370,3 +370,12 @@ One computer sends data to or receives data from another computer directly.
 
 FTP uses a client-server architecture, often secured with SSL/TLS.
 
+### UDP (User Datagram Protocol)
+
+User Datagram Protocol (UDP) is a transport layer protocol defined for use with the IP network layer protocol.
+
+It is defined by RFC 768 written by John Postel.
+
+UDP provides a minimal, unreliable, best-effort, message-passing transport to applications and upper-layer protocols.
+
+UDP and its UDP-lite variant are unique in that they do not establish end-to-end connections between communicating end systems.
