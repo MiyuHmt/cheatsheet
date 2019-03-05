@@ -180,3 +180,30 @@ xDSL refers to different variations of DSL, such as ADSL, HDSL, and RADSL.
 DSL technology uses normal phone line technology to send digital signals to the DSL modem.
 
 One of the major advantages of DSL over Cable Modems is that the line is not shared to the Central Office; however, the slow connections are rarely associated with this segment of your connection.
+
+## Network Devices
+
+Computer networking devices are units that mediate data in a computer network and are also called network equipment. Units which are the last receiver or generate data are called hosts or data terminal equipment.
+
+### Types of Network Devices
+
+* HUB
+* Switches
+* Routers
+* NICs
+
+### HUB
+
+Networks using a Star topology require a central point for the devices to connect
+
+Originally this device was called a concentrator since it consolidated the cable runs from all network devices. The basic form of concentrator is the hub
+
+The hub is a hardware device that contains multiple, independent ports that match the cable type of the network.
+
+Most common hubs interconnect Category 3 or 5 twisted-pair cable with RJ-45 ends, altough Coax BNC and Fiber Optic BNC hubs also exist.
+
+### Switches
+
+### Routers
+
+### NICs
