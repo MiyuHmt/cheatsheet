@@ -145,4 +145,16 @@ Protocols that can transmit across longer distances measured in miles or kilomet
 * ISDN
 * DSL
 
+### X.25
 
+The X.25 protocol, adopted as a standard by the Consultative Committee for International Telegraph and Telephone (CCITT), is a commonly-used network protocol.
+
+The X.25 protocol allows computers on different public networks (such as CompuServe, Tymnet, or a TCP/IP network) to communicate through an intermediary computer at the network layer level.
+
+X.25's protocols correspond closely to the data-link and physical-layer protocols defined in the Open Systems Interconnection (OSI) communication model.
+
+### Frame Relay
+
+### ISDN
+
+### DSL
