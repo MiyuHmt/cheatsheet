@@ -379,3 +379,7 @@ It is defined by RFC 768 written by John Postel.
 UDP provides a minimal, unreliable, best-effort, message-passing transport to applications and upper-layer protocols.
 
 UDP and its UDP-lite variant are unique in that they do not establish end-to-end connections between communicating end systems.
+
+### ICMP (Internet Control Message Protocol)
+
+ICMP is an error-reporting protocol network devices like routers use to generate error messages to the source IP address when network problems prevent delivery of IP packets.
