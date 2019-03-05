@@ -220,3 +220,10 @@ Routers are most often used in large internetworks that use the TCP/IP protocol 
 Routers work at the network layer (layer 3) of the OSI reference model for networking to move packets between networks using logical addressses (wich, in the case of TCP/IP, are the IP addresses of destination hosts on the network).
 
 ### NICs
+
+Network Interface Card, or NIC is a hardware card installed in a computer so it can communicate on a network.
+
+The network adapter provides one or more ports for the network cable to connect to, and it transmits and receives data onto the network cable.
+
+Every networked computer must also have a network adapter driver, which controls the network adapter.
+Each network adapter driver is configured to run with a certain type of network adapter.
