@@ -204,6 +204,13 @@ Most common hubs interconnect Category 3 or 5 twisted-pair cable with RJ-45 ends
 
 ### Switches
 
+Switches are a special type of hub that offers an additional layer of intelligence to basic, physical-layer repeater hubs.
+A switch must be able to read the MAC address of each frame it receives.
+
+This information allwos switches to repeat incoming data frames only to the computer or computers to which a frame is addressed. This speeds up the network and reduces congestion.
+
+Switches operate at both the physical layer and the data link layer of the OSI Model.
+
 ### Routers
 
 ### NICs
