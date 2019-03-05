@@ -227,3 +227,45 @@ The network adapter provides one or more ports for the network cable to connect 
 
 Every networked computer must also have a network adapter driver, which controls the network adapter.
 Each network adapter driver is configured to run with a certain type of network adapter.
+
+## Concepts of IP
+
+If a device wants to communicate using TCP/IP, it needs an IP address.
+
+Whan the device has an IP address and the appropriate software and hardware, it can send and receive IP packets.
+
+Any device that can send and receive IP packets is called an IP host.
+
+IP addresses consist of a 32-bit number, usually written in dotted-decimal notation.
+
+## Packets and addresses
+
+### Addresses
+
+A packet is the basic unit of information in network transmission.
+
+Most networks use TCP/IP as the network protocol, or set of rules for communication between devices.
+
+They fit into the standard model of networking model, known as the OSI model.
+
+The structure of packets and packet-switching networks allow for fast and reliable data transmission, and make networks like the internet possible.
+
+### Packets
+
+An IP address is an address used in order to uniquely identify a device on an IP network.
+
+The address is made up of 32 binary bits, which can be divisible into a network portion and host portion with the help of subnet mask.
+
+The 32 binary bits are broken into four octets (1 octet = 8 bits)
+
+Each octet is converted to decimal and separated by a period (dot).
+
+## IP service port
+
+The service-port interface controls communications through and is statically mapped by the system to the service port.
+
+The service port can obtain an IPv4 address using DHCP, or it can be assigned a static IPv4 address.
+
+But a default gateway cannot be assigned to the service-port interface.
+
+The default gateway cannot be assigned to the service-port interface.
