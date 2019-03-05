@@ -1,4 +1,4 @@
-# Networks courses
+# Networks
 
 ## Networking topologies
 
