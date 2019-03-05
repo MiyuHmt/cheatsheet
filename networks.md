@@ -130,3 +130,19 @@ ATM works by transmitting all data in small packets of a fixed size; whereas, ot
 ATM supports a variety of media such as video, CD-quality audio, and imaging. ATM employs a star topology, which can work with fiber optic as well as twisted pair cable.
 
 ATM is most often used to interconnect two or more local area networks.
+
+
+## WAN Protocols
+
+The acronym WAN is used to refer to networks spanning much areas larger than a LAN does and often include circuits provided by a telecommunications carrier or a private leased line.
+
+Protocols that can transmit across longer distances measured in miles or kilometers are used to build WANs.
+
+### Types of WAN Protocols
+
+* X.25
+* Frame Relay
+* ISDN
+* DSL
+
+
