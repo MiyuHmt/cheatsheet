@@ -465,3 +465,68 @@ Router is connected to at least two networks and decides which way to send each 
 A router is located at any gateway (where one network meets another), including each point-of-presence on the Internet.
 
 A layer-3 switch is a switch that can perform routing functions.
+
+### Broadband router
+
+Broadband routers can do different types of things.
+
+Broadband routers can be used to connect computers or to connect to ther internet.
+
+If you connect to the internet through phone and using Voice over IP technology (VOIP) then you need broadband router.
+
+### Wireless router
+
+Wireless routers create a wireless signal in your home or office.
+
+So, any PC within range or Wireless routers can connect it and use your internet.
+
+In order to secure your Wireless routers, you simply need to come secure it with password or get your IP address.
+
+When, you'll log on into your router with the user ID and passwords will that come with your router.
+
+### Core router
+
+A router that resides within the middle or backbone of the LAN network rather than at its periphery.
+
+In some instances, a core router provides a step down backbone, interconnecting the distribution routers from multiple building of a campus.
+
+### Routing
+
+In internetworking, the process of moving a packet of data from source to destination.
+
+Routing is usually performed by a dedicated device called a router.
+
+Each intermediary computer performs routing by passing along the message to the next computer.
+
+Routing is often confused with bridging, which performs a similar function.
+
+### Static routing
+
+The router learns about remote networks from neighbor routers or from an administrator.
+
+The router then builds a routing table.
+
+If the network is directly connected then the router already knows how to get to the network.
+
+The routers then update each other about all the networks they know.
+
+### Dynamic routing
+
+Dynamic routing performs the same function as static routing except it is more important.
+
+Dynamic routing allows routing tables in routers to change as the possible routes change.
+
+There are several protocols used to support dynamic routing including RIP and OSPF.
+
+### Routing protocol
+
+The purpose of routing protocols is to learn of available routes that exist on the enterprise network.
+
+Some of the most common routing protocols include IGRP, EIGRP, OSPF, IS-IS and BGP.
+
+There are two primary routing protocol types although many different routing protocols defined with those two types.
+
+When a route becomes unavailable, all router tables must be updated with that new information.
+
+
+
