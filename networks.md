@@ -309,3 +309,23 @@ Class B addresses range from 128.0.x.x to 191.255.x.x
 The default subnet mask for class B is 255.255.x.x
 
 Class B has 16384 (2^14) network addresses and 65534 (2^16-2) host addresses.
+
+### Class C address
+
+The first octet of class C IP address has its first 3 bits set to 110.
+
+Class C addresses range from 192.0.0.x to 223.255.255.x
+
+The default subnet mask for class B is 255.255.255.x
+
+Class C gives (2^21) network addresses and 254 (2^8-2) host addresses.
+
+### Class D address
+
+Very first four bits of the first octet in class D IP addresses are set to 1110.
+
+Class D has IP address range from 224.0.0.x to 239.255.255.255
+
+Class D is reserved for multicasting.
+
+Host address from the IP address, and class D does not have any subnet mask.
