@@ -172,3 +172,11 @@ Consequently ISDN conforms to specifications found in the telecom's digital voic
 However, it took so longer for ISDN to be standardized that it was never fully deployed in the telecommunications networks it was intended for.
 
 ### DSL
+
+DSL (Digital Subscriber Line) is a technology for bringing high-bandwidth information to homes and small businesses over ordinary copper telephone lines.
+
+xDSL refers to different variations of DSL, such as ADSL, HDSL, and RADSL.
+
+DSL technology uses normal phone line technology to send digital signals to the DSL modem.
+
+One of the major advantages of DSL over Cable Modems is that the line is not shared to the Central Office; however, the slow connections are rarely associated with this segment of your connection.
