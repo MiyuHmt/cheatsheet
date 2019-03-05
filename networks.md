@@ -163,4 +163,12 @@ AT&T stopped offering frame relay in 2012 but said it would support existing cus
 
 ### ISDN
 
+The Integrated Services Digital Network was the first telecommunications service designed specifically for digital data communication
+
+ISDN was designed to run over standard voice digital telephone systems already in place
+
+Consequently ISDN conforms to specifications found in the telecom's digital voice network.
+
+However, it took so longer for ISDN to be standardized that it was never fully deployed in the telecommunications networks it was intended for.
+
 ### DSL
