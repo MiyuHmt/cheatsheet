@@ -456,3 +456,12 @@ The DNS system is, in fact, its own network.
 
 If one DNS server doesn't know how to translate a particular domain name, it asks another one, and so on, until the correct IP address is returned.
 
+## Router 
+
+Routers use headers and forwarding tables to determine the best path for forwarding the packets, and they use protocols such as ICMP.
+
+Router is connected to at least two networks and decides which way to send each information packet.
+
+A router is located at any gateway (where one network meets another), including each point-of-presence on the Internet.
+
+A layer-3 switch is a switch that can perform routing functions.
