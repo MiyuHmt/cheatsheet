@@ -289,3 +289,23 @@ To be used efficiently in various situations as per the requirement of hosts per
 The IPv4 addressing system is divided into five classes of IP addresses.
 
 All the five classes are identified by the first octet of IP address
+
+### Class A address
+
+The first bit of the first octet is always set to 0.
+
+Thus the first octet ranges from 1 - 127, i.e.
+
+Class A addresses only include IP starting from 1.x.x.x to 126.x.x.x only
+
+The IP range 127.x.x.x is reserved for loopback IP addresses
+
+### Class B address
+
+An IP address which belongs to class B has the first two bits in the first octet set to 10.
+
+Class B addresses range from 128.0.x.x to 191.255.x.x
+
+The default subnet mask for class B is 255.255.x.x
+
+Class B has 16384 (2^14) network addresses and 65534 (2^16-2) host addresses.
