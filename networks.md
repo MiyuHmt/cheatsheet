@@ -528,5 +528,62 @@ There are two primary routing protocol types although many different routing pro
 
 When a route becomes unavailable, all router tables must be updated with that new information.
 
+### Interior Gateway Routing Protocol (IGRP)
+
+IRGP is a distance vector routing protocol developed by Cisco systems for routing multiple protocols across small and medium sized Cisco networks.
+
+This contrasts with IP RIP and IPX RIP, which are designed for multi-vendor networks.
+
+IGRP does recognize assignment of different autonomous systems and automatically summarizes at network class boundaries.
+
+As well there is the option to load balance traffic across equal or unequal metric cost paths.
+
+### Enhanced Interior Gateway Routing Protocol (EIGRP)
+
+Enhanced Interior Gateway Routing Protocol is a hybrid routing protocol developed by Cisco systems.
+
+It has characteristics of both distance vector routing protocols and link state routing protocols.
+
+It is proprietary which requires that you use Cisco routers.
+
+EIGRP will route the same protocols that IGRP routes (IP, IPX, Decnet and Appletalk).
+
+### Access Control Protocols
+
+There are many reasons to configure access lists.
+
+One of the most important reasons to configure access lists is to provide security for your network.
+
+You should use access lists to provide a basic level of security for accessing your network.
+
+## Physical security
+
+Physical security is the first layer of protection for computers and data
+
+It involves the protection of assets such as hardware, networks and data from attacks that cause loss or damage.
+
+There are various factors that affect the physical security such as damage, theft, dust, fire, water, flood, earthquakes, ...
+
+
+### Objectives of physical security
+
+* Prevent any unauthorized access to the computer systems
+* Prevent tampering / stealing of data from the computer systems
+* Protect the integrity of the data stored in the computer
+* Prevent the loss of data / damage to systems against any natural calamities
+
+### Physical security controls
+
+Premises and company surroundings: fences, gates, walls, guards, alarms, intruder systems, panic buttons, ...
+
+Reception area: lock the important files and documents, lock the equipment when not in use
+
+Server and workstation area: lock the systems when not in use, disable or avoid having removable media and DVD-ROM drives, CCTV cameras, workstation layout
+
+Access control: separate work areas, implement biometric access controls, entry cards, man traps, ...
+
+Wiretapping: inspect all the wires carrying data routinely, protect the wires shieldded cables, never leave any wire exposed.
+
+Environmental control: humidity and air conditioning, HVAC, EMI Shielding
 
 
