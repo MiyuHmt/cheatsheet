@@ -106,7 +106,7 @@ var arr2 = arr.map(function(nb) { return nb+2; });
 condition ? exprTrue : exprFalse
 ```
 
-If `condition` is truthy, the opeator returns value of `exprTrue` ; otherwise, it returns tue value of `exprFalse`.
+If `condition` is truthy, the opeator returns value of `exprTrue` ; otherwise, it returns the value of `exprFalse`.
 
 ## If / Else condition
 
@@ -292,7 +292,7 @@ user = {
 const {name, age, city} = user;
 ```
 
-To give an different name to the variable and the parameter: 
+To give a different name to the variable and the parameter: 
 ```javascript
 user = {
   name: "Marine",
