@@ -5,4 +5,5 @@ Some cheatsheets that I have do for some languages or tools.
 * [JavaScript](https://github.com/MiyuHmt/cheatsheet/blob/master/javascript.md)
 * [Networks](https://github.com/MiyuHmt/cheatsheet/blob/master/networks.md)
 * [npm](https://github.com/MiyuHmt/cheatsheet/blob/master/npm.md)
+* [Git](https://github.com/MiyuHmt/cheatsheet/blob/master/git.md)
 * [Go](https://github.com/MiyuHmt/cheatsheet/blob/master/go.md)
